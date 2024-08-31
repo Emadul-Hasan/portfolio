@@ -1,15 +1,25 @@
-# portfolio
-All protfolio projects
+# All portfolio projects
 
-# Power Adaters
+
+# Power Adapters
 
 ```
-Input voltage: 110/220VAc
+Input voltage: 110/240VAc
+Output voltage: 12Vdc
+Maximum Output Current: 2A
+```
+
+<img width="631" alt="12V 2A" src="https://github.com/user-attachments/assets/cf004e3f-cb29-43b0-8f26-6dc98f82e040">
+
+
+```
+Input voltage: 110/240VAc
 Output voltage: 5Vdc
 Maximum Output Current: 2A
 ```
 
 <img width="605" alt="Untitled" src="https://github.com/user-attachments/assets/b4590a7f-9e94-4d14-860d-cd595cb875b7">
+
 
 # DC-DC Converter
 ```
