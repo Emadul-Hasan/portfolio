@@ -36,7 +36,8 @@ Maximum Output Current: 2A
 # Fan Controller
 ```
 Input voltage: 5Vdc
-motor: 5V
+LED Control
+Speed Control (3 step-Low, Medium, High)
 ```
 ![Mini dc rechargable fan controller](https://github.com/user-attachments/assets/fa4a82f3-1c8b-429a-823f-5656028226d6)
 
