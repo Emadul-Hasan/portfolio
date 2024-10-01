@@ -32,3 +32,11 @@ Output voltage: 7.5Vdc
 Maximum Output Current: 2A
 ```
 <img width="338" alt="7_5Merge" src="https://github.com/user-attachments/assets/7e9d35f8-6b8e-4286-abad-3e4038f6a538">
+
+# Fan Controller
+```
+Input voltage: 5Vdc
+motor: 5V
+```
+![Mini dc rechargable fan controller](https://github.com/user-attachments/assets/fa4a82f3-1c8b-429a-823f-5656028226d6)
+
