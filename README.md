@@ -1,5 +1,14 @@
 # All portfolio projects (Under Construction)
 
+#BLDC Controller
+```
+Input voltage: 110/240VAc
+Maximum Output Power: 48W
+Motor Spec: 35W (24V)
+Power Factor: >0.9
+```
+
+![48W BLDC CONTROLLER](https://github.com/user-attachments/assets/0c8a3ff0-7ecb-4b8a-b655-997db70bf683)
 
 # Power Adapters
 
