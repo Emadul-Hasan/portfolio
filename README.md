@@ -20,8 +20,9 @@ Memory: 2GB DDR3 4GB EMMC
 HDMI, Wifi, Bluetooth, Audio out
 ```
 # Gunshot detection sensor
-[PCBA Assembly document.pdf](https://github.com/user-attachments/files/23215975/PCBA.Assembly.document.pdf)
-[PCB Fabrication document 1.pdf](https://github.com/user-attachments/files/23215974/PCB.Fabrication.document.1.pdf)
+PCBA Assembly: [PCBA Assembly document.pdf](https://github.com/user-attachments/files/23215975/PCBA.Assembly.document.pdf)
+
+PCB Fab doc: [PCB Fabrication document 1.pdf](https://github.com/user-attachments/files/23215974/PCB.Fabrication.document.1.pdf)
 
 # BLDC Controller
 ```
