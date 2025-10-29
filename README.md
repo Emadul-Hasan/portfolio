@@ -1,4 +1,27 @@
-# All portfolio projects (Under Construction)
+# Limited portfolio projects (Can't share all the project publicly due to signed NDA)
+
+# BJIT SBC V2.0
+
+<img width="440" height="381" alt="BJIT SBC" src="https://github.com/user-attachments/assets/ad91f326-6f0b-4fb3-a2dc-eef8dccbb5a5" />
+<img width="1184" height="864" alt="BJIT SBC internal layer combine" src="https://github.com/user-attachments/assets/0d2c2c58-2fef-413c-8bf3-77e55b415fda" />
+
+```
+Processor: RK3399
+Memory: 4GB LPDDR4 16GB EMMC (PCIE for External Storage), SDMMC for load Os
+HDMI, eDP, Wifi, Bluetooth, Audio out
+```
+
+# BJIT SBC V1.0-final
+[SBC-amd based.pdf](https://github.com/user-attachments/files/23215988/SBC-amd.based.pdf)
+
+```
+Processor: Zynq 7000
+Memory: 2GB DDR3 4GB EMMC 
+HDMI, Wifi, Bluetooth, Audio out
+```
+# Gunshot detection sensor
+[PCBA Assembly document.pdf](https://github.com/user-attachments/files/23215975/PCBA.Assembly.document.pdf)
+[PCB Fabrication document 1.pdf](https://github.com/user-attachments/files/23215974/PCB.Fabrication.document.1.pdf)
 
 # BLDC Controller
 ```
