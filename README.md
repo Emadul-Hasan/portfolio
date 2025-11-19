@@ -1,8 +1,7 @@
 # Limited portfolio projects (Can't share all the project publicly due to signed NDA)
 
 # BJIT SBC V2.0
-
-<img width="440" height="381" alt="BJIT SBC" src="https://github.com/user-attachments/assets/ad91f326-6f0b-4fb3-a2dc-eef8dccbb5a5" />
+<img width="1125" height="553" alt="Screenshot 2025-11-19 102354" src="https://github.com/user-attachments/assets/9066d38b-24ac-4ca9-b587-21933e555d03" />
 <img width="1184" height="864" alt="BJIT SBC internal layer combine" src="https://github.com/user-attachments/assets/0d2c2c58-2fef-413c-8bf3-77e55b415fda" />
 
 ```
