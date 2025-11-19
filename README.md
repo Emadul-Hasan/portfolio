@@ -2,7 +2,10 @@
 
 # BJIT SBC V2.0
 <img width="1125" height="553" alt="Screenshot 2025-11-19 102354" src="https://github.com/user-attachments/assets/9066d38b-24ac-4ca9-b587-21933e555d03" />
+<img width="2074" height="1731" alt="Copper layers" src="https://github.com/user-attachments/assets/62c539b0-a682-4eaf-b71c-63bfca36b2e8" />
 
+PCBA Assembly: [RK3399 SINGLE BOARD COMPUTER Assembly drawing.pdf](https://github.com/user-attachments/files/23619443/RK3399.SINGLE.BOARD.COMPUTER.Assembly.drawing.pdf)
+PCB Manufacturing document: [RK3399 SINGLE BOARD COMPUTER manufacturing drawing.pdf](https://github.com/user-attachments/files/23619447/RK3399.SINGLE.BOARD.COMPUTER.manufacturing.drawing.pdf)
 
 ```
 Processor: RK3399
