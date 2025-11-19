@@ -1,6 +1,6 @@
 # Limited portfolio projects (Can't share all the project publicly due to signed NDA)
 
-# BJIT SBC V2.0
+# SBC V2.0
 <img width="1125" height="553" alt="Screenshot 2025-11-19 102354" src="https://github.com/user-attachments/assets/9066d38b-24ac-4ca9-b587-21933e555d03" />
 <img width="2074" height="1731" alt="Copper layers" src="https://github.com/user-attachments/assets/62c539b0-a682-4eaf-b71c-63bfca36b2e8" />
 
@@ -14,7 +14,7 @@ Memory: 4GB LPDDR4 16GB EMMC (PCIE for External Storage), SDMMC for load Os
 HDMI, eDP, Wifi, Bluetooth, Audio out
 ```
 
-# BJIT SBC V1.0-final
+# SBC V1.0-final
 [SBC-amd based.pdf](https://github.com/user-attachments/files/23215988/SBC-amd.based.pdf)
 
 ```
