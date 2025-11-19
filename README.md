@@ -5,6 +5,7 @@
 <img width="2074" height="1731" alt="Copper layers" src="https://github.com/user-attachments/assets/62c539b0-a682-4eaf-b71c-63bfca36b2e8" />
 
 PCBA Assembly: [RK3399 SINGLE BOARD COMPUTER Assembly drawing.pdf](https://github.com/user-attachments/files/23619443/RK3399.SINGLE.BOARD.COMPUTER.Assembly.drawing.pdf)
+
 PCB Manufacturing document: [RK3399 SINGLE BOARD COMPUTER manufacturing drawing.pdf](https://github.com/user-attachments/files/23619447/RK3399.SINGLE.BOARD.COMPUTER.manufacturing.drawing.pdf)
 
 ```
